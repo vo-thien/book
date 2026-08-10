@@ -1,0 +1,6 @@
+---
+icon: language
+---
+
+# Languages
+

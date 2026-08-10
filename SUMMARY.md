@@ -1,0 +1,45 @@
+# Table of contents
+
+* [Welcome](README.md)
+
+## Web&#x20;
+
+* [Recon](web/recon/README.md)
+  * [Subdomain](web/recon/subdomain.md)
+  * [DNS](web/recon/dns.md)
+  * [Live Hosts](web/recon/live-hosts.md)
+  * [Technology Stack](web/recon/technology-stack.md)
+  * [Page 1](web/recon/page-1.md)
+* [PortSwigger](web/portswigger/README.md)
+  * [File Upload](web/portswigger/file-upload/README.md)
+    * [1. Remote code execution via web shell upload](web/portswigger/file-upload/1.-remote-code-execution-via-web-shell-upload.md)
+    * [2. Web shell upload via Content-Type restriction bypass](web/portswigger/file-upload/2.-web-shell-upload-via-content-type-restriction-bypass.md)
+    * [3. Web shell upload via path traversal](web/portswigger/file-upload/3.-web-shell-upload-via-path-traversal.md)
+* [Hack The Box](web/hack-the-box/README.md)
+  * [Web Penetration Tester Path](web/hack-the-box/web-penetration-tester-path/README.md)
+    * [1. Web Requests](web/hack-the-box/web-penetration-tester-path/1.-web-requests.md)
+    * [2. Introduction to Web Applications](web/hack-the-box/web-penetration-tester-path/2.-introduction-to-web-applications.md)
+    * [3. Using Web Proxies](web/hack-the-box/web-penetration-tester-path/3.-using-web-proxies.md)
+    * [4. Information Gathering - Web Edition](web/hack-the-box/web-penetration-tester-path/4.-information-gathering-web-edition.md)
+    * [Web Fuzzing](web/hack-the-box/web-penetration-tester-path/web-fuzzing.md)
+* [Burp Suite](web/burp-suite/README.md)
+  * [Chỉnh http history filter](web/burp-suite/chinh-http-history-filter.md)
+  * [Lỗi vị trí con trỏ](web/burp-suite/loi-vi-tri-con-tro.md)
+  * [Tự động chặn response ở tab intercept](web/burp-suite/tu-dong-chan-response-o-tab-intercept.md)
+* [CBJS](web/cbjs.md)
+* [Fuzzing](web/fuzzing.md)
+* [CVE](web/cve/README.md)
+  * [Roundcube](web/cve/roundcube.md)
+  * [WordPress](web/cve/wordpress/README.md)
+    * [Page 2](web/cve/wordpress/page-2.md)
+* [Internet](web/internet/README.md)
+  * [Victim 1](web/internet/victim-1.md)
+* [Languages](web/languages/README.md)
+  * [nest.js](web/languages/nest.js.md)
+  * [note](web/languages/note/README.md)
+    * [npm vs npx](web/languages/note/npm-vs-npx.md)
+* [Docker](web/docker.md)
+
+## Temp&#x20;
+
+* [Temp](temp/temp.md)
