@@ -1,6 +1,6 @@
 # WordPress
 
-## Hướng dẫn setup debug
+## Hướng dẫn install và setup debug ở local
 
 Yêu cầu:
 

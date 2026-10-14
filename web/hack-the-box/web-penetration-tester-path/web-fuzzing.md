@@ -180,13 +180,13 @@ ffuf -w common.txt -u http://154.57.164.81:31500/FUZZ -e .php,.html,.txt -v -ic 
 ```
 {% endcode %}
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Sau khi truy cập [http://154.57.164.81:31500/admin/panel.php](http://154.57.164.81:31500/admin/panel.php) thì nhận được thông báo invalid parameter
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
